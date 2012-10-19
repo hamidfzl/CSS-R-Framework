@@ -1,0 +1,5 @@
+/*-----------------Screen Size 1236px (Desktops)-----------------*/
+
+#Wrapper{width:800px;} .Wrap, #Header{width:748px;}
+#Content{width:668px;padding:40px 40px 20px 40px;}
+#back-top a{padding:3px 10px 2px 30px;text-indent:inherit;width:auto;}

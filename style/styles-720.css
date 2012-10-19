@@ -1,0 +1,5 @@
+/*-----------------Screen Size 720px (Mobile)-----------------*/
+
+#Wrapper, #Header, .Wrap{width:100%;}
+#Content{width:auto;padding:30px 20px 20px 20px;}
+#back-top a{padding:3px 0 2px 0;text-indent:-99999px;width:27px;}
