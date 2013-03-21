@@ -53,17 +53,17 @@ $(document).ready(function(){
     
     <div class="clear50"></div>
     
-    <h1>This is the H1</h1>
+    <h1>This is the h1</h1>
     <div class="clear25"></div>
-    <h2>This is the H2</h2>
+    <h2>This is the h2</h2>
     <div class="clear15"></div>
-    <h3>This is the H3</h3>
+    <h3>This is the h3</h3>
     <div class="clear10"></div>
-    <h4>This is the H4</h4>
+    <h4>This is the h4</h4>
     <div class="clear5"></div>
-    <h5>This is the H5</h5>
+    <h5>This is the h5</h5>
     <div class="clear"></div>
-    <h6>This is the H6</h6>
+    <h6>This is the h6</h6>
     
     
 </div>
